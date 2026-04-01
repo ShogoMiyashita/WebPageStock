@@ -5,8 +5,7 @@ Tech Spec
 ## Tech Spec
 - SwiftUI / iOS 26+
 - WebView + WebPage (WebKit for SwiftUI)
-- UserDefaults for persistence
-- Zero dependencies
+- SwiftData for persistence
 
 ## Documatation
 App specification document is managed with OpenSpec.
