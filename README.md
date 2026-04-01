@@ -1,5 +1,5 @@
 # WebPageStock
-A minimal browser-note app for iOS. Save URLs from a built-in WKWebView browser, attach memos, and manage them in a list.
+A minimal browser-note app for iOS. Save URLs from a built-in WebView browser, attach memos, and manage them in a list.
 Tech Spec
 
 ## Tech Spec
