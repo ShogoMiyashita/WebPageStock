@@ -60,3 +60,15 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS
+.DS_Store
+
+# Xcode build
+build/
+DerivedData/
+
+# AI tool local settings
+.claude/
+.codex/
+.serena/
